@@ -1,38 +1,41 @@
-# 👋 Olá, eu sou o [Vítor]
+# 👋 Olá, eu sou o Vítor
 
- "Atualmente cursando o curso analise e desenvolvimento de sistemas."
+🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por tecnologia, programação e desenvolvimento web.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão as tecnologias que utilizo no meu dia a dia:
+Tecnologias que utilizo no meu dia a dia:
 
 <div align="left">
 
-  <img src="https://jsdelivr.net" height="40" alt="python logo"  />
- 
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+
+</div>
+
+---
+# 📊 Minhas Estatísticas
+
+<div align="center">
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=DOUMA008&show_icons=true&theme=tokyonight"
+/>
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUMA008&layout=compact&theme=tokyonight"
+/>
+
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
+## 📬 Como me encontrar
 
-<div align="center">
-  <img src="https://vercel.app" height="180em" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" height="180em" alt="Linguagens mais usadas" />
-</div>
+💼 LinkedIn: [Meu LinkedIn](https://linkedin.com/in/seu-linkedin)
 
-<br>
-
-<div align="center">
-  <img src="https://herokuapp.com" alt="Sequência de Commits" />
-</div>
-
----
-
-### 📬 Como me encontrar
-
-* 🌐 Visite o meu [Portfólio](https://seu-portfolio.com)
-* 💼 Conecte-se comigo no [LinkedIn](https://linkedin.com)
-* 📧 Mande um e-mail para [hugonunes.vitor11@gmail.com](mailto:seu-email@provedor.com)
+📧 Email: hugonunes.vitor11@gmail.com
