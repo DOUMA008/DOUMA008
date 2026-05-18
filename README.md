@@ -35,6 +35,6 @@ Tecnologias que utilizo no meu dia a dia:
 
 ## 📬 Como me encontrar
 
-💼 LinkedIn: [Meu LinkedIn](https://linkedin.com/in/seu-linkedin)
+💼 LinkedIn: [Meu LinkedIn]https://www.linkedin.com/in/vítor-hugo-b922aa3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 
 📧 Email: hugonunes.vitor11@gmail.com
