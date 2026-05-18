@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o [Vítor]
 
-<!--
-**DOUMA008/DOUMA008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ "Atualmente cursando o curso analise e desenvolvimento de sistemas."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que utilizo no meu dia a dia:
+
+<div align="left">
+
+  <img src="https://jsdelivr.net" height="40" alt="python logo"  />
+ 
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://vercel.app" height="180em" alt="Estatísticas do GitHub" />
+  <img src="https://vercel.app" height="180em" alt="Linguagens mais usadas" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://herokuapp.com" alt="Sequência de Commits" />
+</div>
+
+---
+
+### 📬 Como me encontrar
+
+* 🌐 Visite o meu [Portfólio](https://seu-portfolio.com)
+* 💼 Conecte-se comigo no [LinkedIn](https://linkedin.com)
+* 📧 Mande um e-mail para [hugonunes.vitor11@gmail.com](mailto:seu-email@provedor.com)
