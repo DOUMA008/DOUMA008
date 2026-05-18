@@ -19,17 +19,16 @@ Tecnologias que utilizo no meu dia a dia:
 # 📊 Minhas Estatísticas
 
 <div align="center">
-
 <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=DOUMA008&show_icons=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOUMA008&theme=tokyonight"
+    height="190em"
 />
 
-<img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUMA008&layout=compact&theme=tokyonight"
-/>
 
+<img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake animation"
+/>
 </div>
 
 ---
