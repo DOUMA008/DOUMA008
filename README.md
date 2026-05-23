@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Vítor
+# Olá, eu sou o Vítor
 
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia, programação e desenvolvimento web.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
+Apaixonado por tecnologia, programação e desenvolvimento web.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+Tecnologias e Ferramentas
 
 Tecnologias que utilizo no meu dia a dia:
 
@@ -16,7 +16,7 @@ Tecnologias que utilizo no meu dia a dia:
 </div>
 
 ---
-# 📊 Minhas Estatísticas
+# Minhas Estatísticas
 
 <div align="center">
 <img 
@@ -33,8 +33,8 @@ Tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 📬 Como me encontrar
+## Como me encontrar
 
-💼 LinkedIn: [Meu LinkedIn]https://www.linkedin.com/in/vítor-hugo-b922aa3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android.
+LinkedIn: [Meu LinkedIn]https://www.linkedin.com/in/vítor-hugo-b922aa3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 
-📧 Email: hugonunes.vitor11@gmail.com
+Email: hugonunes.vitor11@gmail.com
